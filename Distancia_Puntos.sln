@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33026.149
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Distancia_Puntos", "Distancia_Puntos\Distancia_Puntos.vbproj", "{21EF7740-8DBD-4E03-A5BC-10E7323B52D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distancia_Puntos2", "..\..\..\Desktop\Forms_Distancia_Puntos\Distancia_Puntos2\Distancia_Puntos2.csproj", "{D7F3C966-7148-4DD9-9DB9-BA1A4DCAE344}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21EF7740-8DBD-4E03-A5BC-10E7323B52D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21EF7740-8DBD-4E03-A5BC-10E7323B52D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21EF7740-8DBD-4E03-A5BC-10E7323B52D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21EF7740-8DBD-4E03-A5BC-10E7323B52D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7F3C966-7148-4DD9-9DB9-BA1A4DCAE344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7F3C966-7148-4DD9-9DB9-BA1A4DCAE344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7F3C966-7148-4DD9-9DB9-BA1A4DCAE344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7F3C966-7148-4DD9-9DB9-BA1A4DCAE344}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C97C4D59-F7EA-48B2-A8E0-E985CD0B9589}
+	EndGlobalSection
+EndGlobal

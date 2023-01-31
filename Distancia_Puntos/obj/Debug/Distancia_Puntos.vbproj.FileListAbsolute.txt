@@ -1,0 +1,12 @@
+C:\Users\eljef\source\repos\Distancia_Puntos\Distancia_Puntos\obj\Debug\Distancia_Puntos.vbprojAssemblyReference.cache
+C:\Users\eljef\source\repos\Distancia_Puntos\Distancia_Puntos\obj\Debug\Distancia_Puntos.Form1.resources
+C:\Users\eljef\source\repos\Distancia_Puntos\Distancia_Puntos\obj\Debug\Distancia_Puntos.Resources.resources
+C:\Users\eljef\source\repos\Distancia_Puntos\Distancia_Puntos\obj\Debug\Distancia_Puntos.vbproj.GenerateResource.cache
+C:\Users\eljef\source\repos\Distancia_Puntos\Distancia_Puntos\obj\Debug\Distancia_Puntos.vbproj.CoreCompileInputs.cache
+C:\Users\eljef\source\repos\Distancia_Puntos\Distancia_Puntos\bin\Debug\Distancia_Puntos.exe.config
+C:\Users\eljef\source\repos\Distancia_Puntos\Distancia_Puntos\bin\Debug\Distancia_Puntos.exe
+C:\Users\eljef\source\repos\Distancia_Puntos\Distancia_Puntos\bin\Debug\Distancia_Puntos.pdb
+C:\Users\eljef\source\repos\Distancia_Puntos\Distancia_Puntos\bin\Debug\Distancia_Puntos.xml
+C:\Users\eljef\source\repos\Distancia_Puntos\Distancia_Puntos\obj\Debug\Distancia_Puntos.exe
+C:\Users\eljef\source\repos\Distancia_Puntos\Distancia_Puntos\obj\Debug\Distancia_Puntos.xml
+C:\Users\eljef\source\repos\Distancia_Puntos\Distancia_Puntos\obj\Debug\Distancia_Puntos.pdb
